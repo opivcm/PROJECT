@@ -3,6 +3,8 @@ let name='vinay';
 console.log(name);
 const inter=32;
 console.log(inter);
+let colorr=null;
+console.log(colorr)
 let firstName='mosh';
 let secondName='bruh';
 console.log(firstName);
